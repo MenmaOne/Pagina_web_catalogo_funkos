@@ -1,0 +1,33 @@
+body {
+    font-family: "Verdana"; 
+    background-color: #d4d4d4; 
+}
+    
+.btn-primary {
+    background-color: rgb(255, 136, 0);
+}
+
+.navbar {
+    background-color:  #D8BFD8; 
+}
+
+.navbar-brand img {
+    max-height: 100px; 
+}
+    
+.card {
+    border: none; 
+}
+
+.card-title {
+    font-size: 1.25rem; 
+}
+
+.card-text {
+    color: #000000; 
+}
+
+footer {
+    background-color: #D8BFD8;
+    color: #000000; 
+}
